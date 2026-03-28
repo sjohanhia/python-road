@@ -51,3 +51,6 @@ Saya lulusan SMA dan Portofolio ini adalah bukti kemampuan teknis yang saya bang
 ---
 
 Diperbarui setiap kali satu fase selesai.
+---
+Posisi saat ini : P1 OS 
+permintaan : Lanjutkan
